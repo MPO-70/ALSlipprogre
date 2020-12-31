@@ -1,0 +1,120 @@
+Biofluid,Family,Lipid,P-value,regulation (FP vs NP),Exact mass,RT,Median fold change (FP vs NP),Log fold change
+Plasma,FA,FA(18:0),0.049,upregulated in FP,284.2717,4.1,2.2,0.342422681
+Plasma,GL,DG(34:1),0.043,downregulated in FP,616.4987,8.1,0.26,-0.585026652
+Plasma,GL,DG(36:2)*,0.035,downregulated in FP,637.5609,8.1,0.55,-0.259637311
+Plasma,GL,DG(37:4),0.046,downregulated in FP,630.5039,8.1,0.68,-0.167491087
+Plasma,GL,DG(39:6),0.006,downregulated in FP,654.5382,8.1,0.63,-0.200659451
+Plasma,GL,DG(42:8),0.002,downregulated in FP,674.5274,5.8,0.63,-0.200659451
+Plasma,GL,DG(44:8),0.013,downregulated in FP,702.5589,6.4,0.8,-0.096910013
+Plasma,GL,DG(46:0),0.043,downregulated in FP,764.7308,8.8,0.53,-0.27572413
+Plasma,GL,DG(46:1),0.005,downregulated in FP,762.7114,8.5,0.62,-0.207608311
+Plasma,GL,TG(37:0),0.029,downregulated in FP,652.5734,8.1,0.53,-0.27572413
+Plasma,GL,TG(43:4),0.048,downregulated in FP,710.5672,9,0.82,-0.086186148
+Plasma,GL,TG(44:0) ,0.02,downregulated in FP,767.691,9.7,0.51,-0.292429824
+Plasma,GL,TG(44:1)*,0.01,downregulated in FP,765.6813,9.5,0.41,-0.387216143
+Plasma,GL,TG(46:1),0.01,downregulated in FP,793.7108,9.7,0.43,-0.366531544
+Plasma,GL,TG(46:2)*,0.006,downregulated in FP,791.6965,9.54,0.43,-0.366531544
+Plasma,GL,TG(48:1)*,0.042,downregulated in FP,821.7443,9.9,0.44,-0.356547324
+Plasma,GL,TG(48:2),0.024,downregulated in FP,819.7229,9.7,0.41,-0.387216143
+Plasma,GL,TG(48:3) ,0.031,downregulated in FP,817.7063,9.6,0.36,-0.443697499
+Plasma,GL,TG(48:4),0.022,downregulated in FP,798.6706,9.7,0.55,-0.259637311
+Plasma,GL,TG(48:5),0.039,downregulated in FP,796.6547,9.5,0.48,-0.318758763
+Plasma,GL,TG(50:3)*,0.042,downregulated in FP,845.7442,9.8,0.47,-0.327902142
+Plasma,GL,TG(50:4),0.016,downregulated in FP,843.7229,9.6,0.52,-0.283996656
+Plasma,GL,TG(50:5),0.013,downregulated in FP,806.7021,9.5,0.1,-1
+Plasma,GL,TG(52:2),0.048,downregulated in FP,875.7893,10.1,0.63,-0.200659451
+Plasma,GL,TG(52:5),0.029,downregulated in FP,869.7442,9.7,0.61,-0.214670165
+Plasma,GL,TG(52:6)*,0.044,downregulated in FP,867.7279,9.5,0.49,-0.30980392
+Plasma,GL,TG(52:8),0.011,downregulated in FP,846.6733,8,0.6,-0.22184875
+Plasma,GL,TG(53:8),0.012,downregulated in FP,860.6985,8.2,0.69,-0.161150909
+Plasma,GL,TG(54:2),0.015,downregulated in FP,903.8138,9.7,0.1,-1
+Plasma,GL,TG(54:5),0.029,downregulated in FP,897.7699,9.8,0.7,-0.15490196
+Plasma,GL,TG(54:7),0.046,downregulated in FP,858.7341,9.6,0.42,-0.37675071
+Plasma,GL,TG(54:8),0.008,downregulated in FP,856.7177,9.4,0.28,-0.552841969
+Plasma,GL,TG(56:12) ,0.015,downregulated in FP,954.7029,8,0.01,-2
+Plasma,GL,TG(56:2),0.012,downregulated in FP,931.853,10.4,0.34,-0.468521083
+Plasma,GL,TG(56:3),0.031,downregulated in FP,929.8358,9.8,0.49,-0.30980392
+Plasma,GL,TG(56:5)*,0.042,downregulated in FP,925.8061,10.1,0.81,-0.091514981
+Plasma,GL,TG(56:8),0.02,downregulated in FP,884.7473,9.6,0.73,-0.13667714
+Plasma,GL,TG(58:1),0.029,upregulated in FP,926.8917,10.2,10,1
+Plasma,GL,TG(60:3),0.02,downregulated in FP,985.8921,10.1,0.77,-0.113509275
+Plasma,GL,TG(60:4),0.042,downregulated in FP,983.8815,10,0.77,-0.113509275
+Plasma,GL,TG(60:5),0.023,downregulated in FP,981.8655,9.8,0.74,-0.13076828
+Plasma,GL,TG(60:6),0.026,downregulated in FP,979.8497,9.7,0.1,-1
+Plasma,GL,TG(60:9),0.012,upregulated in FP,956.8057,10.2,10,1
+Plasma,GL,TG(62:7) ,0.015,upregulated in FP,1024.797,10,1.59,0.201397124
+Plasma,GL,TG(63:3),0.002,downregulated in FP,992.9211,10.5,0.72,-0.142667504
+Plasma,GL,TG(65:12),0.024,upregulated in FP,1020.803,10,1.41,0.149219113
+Plasma,GL,TG(65:4),0.005,downregulated in FP,1018.9396,10.5,0.7,-0.15490196
+Plasma,GL,TG(65:5),0.006,downregulated in FP,1016.9198,10.3,0.8,-0.096910013
+Plasma,GL,TG(65:9),0.029,upregulated in FP,1062.83,10.3,2.63,0.419955748
+Plasma,GP,LysoPC(16:0)* ,0.029,downregulated in FP,495.328,2.5,0.58,-0.236572006
+Plasma,GP,LysoPC(18:0)*,0.004,downregulated in FP,523.3606,3.3,0.49,-0.30980392
+Plasma,GP,LysoPC(18:1),0.015,downregulated in FP,521.3427,2.6,0.61,-0.214670165
+Plasma,GP,LysoPC(18:2)*,0.037,downregulated in FP,519.3294,2.1,0.63,-0.200659451
+Plasma,GP,PA(37:3),0.018,downregulated in FP,729.5236,6.1,0.61,-0.214670165
+Plasma,GP,PA(O-38:0) ,0.024,downregulated in FP,700.5707,7.8,0.1,-1
+Plasma,GP,PA(P-37:1),0.001,downregulated in FP,700.5473,5.9,0.75,-0.124938737
+Plasma,GP,PA(P-42:6),0.005,downregulated in FP,760.5266,8.6,0.95,-0.022276395
+Plasma,GP,PC(33:2) ,0.048,downregulated in FP,743.5402,7.3,0.01,-2
+Plasma,GP,PC(35:1),0.041,downregulated in FP,773.5842,7.4,0.1,-1
+Plasma,GP,PC(35:2),0.024,downregulated in FP,771.5729,7,0.73,-0.13667714
+Plasma,GP,PC(36:1),0.016,downregulated in FP,787.6042,7.6,0.1,-1
+Plasma,GP,PC(36:2),0.001,downregulated in FP,785.5912,7.2,0.58,-0.236572006
+Plasma,GP,PC(36:4)*a,0.001,downregulated in FP,781.5592,6.6,0.52,-0.283996656
+Plasma,GP,PC(38:4),0.02,downregulated in FP,809.5883,7.2,0.58,-0.236572006
+Plasma,GP,PC(38:5) ,0.001,downregulated in FP,807.5684,6.7,0.59,-0.229147988
+Plasma,GP,PC(40:3),0.045,upregulated in FP,861.61,6.3,10,1
+Plasma,GP,PC(44:8)a,0.001,downregulated in FP,867.6423,7.2,0.58,-0.236572006
+Plasma,GP,PC(44:9),0.044,downregulated in FP,865.6206,6.7,0.34,-0.468521083
+Plasma,GP,PC(O-28:0),0.034,upregulated in FP,709.5456,8.6,10,1
+Plasma,GP,PC(P-38:3),0.04,downregulated in FP,795.5959,8.7,0.01,-2
+Plasma,GP,PE(12:0),0.022,upregulated in FP,428.2343,4.8,10,1
+Plasma,GP,PE(37:1),0.008,downregulated in FP,759.5694,7.1,0.58,-0.236572006
+Plasma,GP,PE(40:5),0.008,downregulated in FP,810.5937,7.2,0.2,-0.698970004
+Plasma,GP,PE(40:9),0.029,downregulated in FP,802.5305,4.8,0.77,-0.113509275
+Plasma,GP,PE(42:1),0.002,downregulated in FP,851.6391,7,0.1,-1
+Plasma,GP,PE(O-42:4) ,0.001,downregulated in FP,809.621,8.8,0.59,-0.229147988
+Plasma,GP,PE(P-36:1),0.015,downregulated in FP,751.545,7.5,0.68,-0.167491087
+Plasma,GP,PE(P-36:4),0.046,downregulated in FP,723.5184,7,0.69,-0.161150909
+Plasma,GP,PE(P-38:4)*,0.014,downregulated in FP,751.5468,7.5,0.62,-0.207608311
+Plasma,GP,PE(P-38:5),0.035,downregulated in FP,731.5371,6.6,0.63,-0.200659451
+Plasma,GP,PE(P-40:6),0.003,downregulated in FP,757.5547,6.7,0.68,-0.167491087
+Plasma,GP,PE-Cer(d34:1),0.024,downregulated in FP,642.5122,8.2,0.56,-0.251811973
+Plasma,GP,PG(34:1)*,0.035,downregulated in FP,765.5472,6.6,0.85,-0.070581074
+Plasma,GP,PG(36:1) ,0.017,downregulated in FP,793.5881,7.1,0.74,-0.13076828
+Plasma,GP,PG(36:4),0.01,upregulated in FP,830.5249,6.6,1.13,0.053078443
+Plasma,GP,PG(P-34:0),0.003,downregulated in FP,734.5525,5.8,0.6,-0.22184875
+Plasma,GP,PI(37:2),0.048,upregulated in FP,912.5292,6.6,1.28,0.10720997
+Plasma,GP,PS(40:1),0.042,downregulated in FP,845.6154,7.3,0.87,-0.060480747
+Plasma,GP,PS(41:0),0.001,downregulated in FP,843.641,7.2,0.5,-0.301029996
+Plasma,GP,PS(41:2),0.004,downregulated in FP,839.6116,6.6,0.63,-0.200659451
+Plasma,GP,PS(43:1),0.008,downregulated in FP,869.6603,7.4,0.14,-0.853871964
+Plasma,GP,PS(P-39:0),0.012,downregulated in FP,817.6213,7.1,0.5,-0.301029996
+Plasma,GP,PS(P-39:1),0.005,downregulated in FP,815.6064,6.7,0.8,-0.096910013
+Plasma,GP,PS(P-41:0),0.001,downregulated in FP,845.6499,7.6,0.1,-1
+Plasma,SL,Cer(d42:1),0.001,downregulated in FP,649.6322,8.8,0.56,-0.251811973
+Plasma,SL,Cer(t42:0) ,0.029,upregulated in FP,727.6811,7.1,1.1,0.041392685
+Plasma,SL,Ganglioside GM3 (d41:0),0.005,upregulated in FP,1234.8322,7.2,1.75,0.243038049
+Plasma,SL,LacCer (d34:1) ,0.023,upregulated in FP,843.6046,7.8,10,1
+Plasma,SL,SM(d32:0),0.006,downregulated in FP,676.5698,7.8,0.67,-0.173925197
+Plasma,SL,SM(d35:0) ,0.042,downregulated in FP,735.6293,8.1,0.64,-0.193820026
+Plasma,SL,SM(d40:1),0.036,downregulated in FP,786.6505,8,0.67,-0.173925197
+Plasma,SL,SM(d42:1),0.006,downregulated in FP,814.6861,8.4,0.69,-0.161150909
+Plasma,SL,SM(d42:2),0.02,downregulated in FP,812.6713,8,0.84,-0.075720714
+Plasma,ST,CE(18:1)*,0.001,downregulated in FP,667.6234,10.5,0.69,-0.161150909
+Plasma,ST,CE(18:2)*,0.02,downregulated in FP,665.6068,10.3,0.8,-0.096910013
+Plasma,ST,CE(22:5),0.027,downregulated in FP,698.6127,8.7,0.64,-0.193820026
+CSF,GL,DG(42:3) ,0.03,upregulated in FP,684.5875,9.1,2.76,0.440909082
+CSF,GL,DG(42:4) ,0.024,downregulated in FP,717.6201,5.6,0.1,-1
+CSF,GL,TG(49:1)*,0.048,downregulated in FP,835.7594,10.2,0.94,-0.026872146
+CSF,GL,TG(50:1)*,0.049,downregulated in FP,849.7746,10.3,0.73,-0.13667714
+CSF,GL,TG(53:5),0.04,downregulated in FP,1733.499,10.5,0.1,-1
+CSF,GL,TG(54:3)* ,0.047,downregulated in FP,901.8085,10.3,0.81,-0.091514981
+CSF,GL,TG(54:4)*,0.026,downregulated in FP,899.7938,10.2,0.89,-0.050609993
+CSF,GL,TG(60:7),0.037,downregulated in FP,942.7935,10.3,0.1,-1
+CSF,GL,TG(66:12),0.033,upregulated in FP,1016.831,10.8,2.44,0.387389826
+CSF,GP,PA(33:3),0.018,upregulated in FP,656.4273,5.2,10,1
+CSF,GP,PA(44:7),0.013,upregulated in FP,802.5355,6.3,10,1
+CSF,SL,CerP(34:0) ,0.036,downregulated in FP,618.5179,8.7,0.1,-1
+CSF,SL,Ganglioside GM3 (d36:2),0.023,downregulated in FP,1178.76,6.5,0.81,-0.091514981
